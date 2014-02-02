@@ -1,0 +1,34 @@
+jalgpall
+1 Man City - Arsenal 14.12
+2 Tottenham - Liverpool 15.12
+3 Newcastle - Southampton 14.12
+4 Aston Villa - Man Utd 15.12
+5 Lyon - Marseille 15.12
+6 Atletico Madrid - Valencia 15.12
+7 Sevilla - Athletic Bilbao 15.12
+8 Napoli - Inter 15.12
+9 AC Milan - AS Roma 16.12
+10 Bayern Munich - Man City 10.12
+11 Benfica - PSG 10.12
+12 Galatasaray - Juventus 10.12
+13 Man Utd - Shaktar 10.12
+14 Real Sociedad - Leverkusen Bayer 10.12
+15 AC Milan - Ajax 11.12
+16 Atletico Madrid - FC Porto 11.12
+17 Marseille - Dortmund 11.12
+18 Napoli - Arsenal 11.12
+vorkpall
+19 Pärnu VK - Bratislava Volley 12.12
+korvpall
+20 Moskva CSKA - FC Barcelona 12.12
+21 Zalgiris Kaunas - Anadolu Efes 12.12
+22 Malaga Unicaja - Bayern Munich 12.12
+23 Lokomotiv Kuban - Panathinaikos 13.12
+24 Kalev/Cramo - Lietuvos Rytas 15.12
+25 Warriors - Rockets 13.12
+boonus
+B1 Bayern Munich - Hamburg täpne seis? 14.12
+B2 Kes tuleb võrkpallis Eesti karikavõitjaks? 15.12
+B3 Kas Kobe Bryant on Lakersi edukaim punktiviskaja vs. Suns? 10.12
+B4 Kes võidab meeste 30km vabatehnikat Davosis? 14.12
+B5 Kui kaugele jõuab edukaim Eesti mees Davosi uisu sprindis? (loe ülalt) 15.12
