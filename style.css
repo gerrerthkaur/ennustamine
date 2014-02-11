@@ -1,0 +1,123 @@
+
+body {
+	margin: 0;
+	background: #630000 url(bg01.png) repeat;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 12px;
+	color: #3B3B3B;
+}
+
+h1, h2 {
+	margin: 0px;
+	font-weight: normal;
+	color: #2F6BCF;
+}
+
+h1 {
+	font-size: 2em;
+}
+
+h2 {
+	font-size: 2.4em;
+}
+
+p, ul, ol {
+	margin-top: 0;
+	line-height: 190%;
+}
+
+a {
+	text-decoration: none;
+	color: #383838;
+}
+
+
+#pealkiri {
+	clear: both;
+	margin: 0px auto;
+}
+
+
+#quote {
+	padding: 30px 0px;
+	text-align: center;
+}
+#quote p {
+	margin: 0;
+	color: #ABA6A6;
+}
+
+#quote h1 {
+	text-transform: lowercase;
+	font-size: 4.4em;
+	color: #FFFFFF;
+}
+
+#quote a {
+	color: #FFFFFF;
+}
+
+
+#menu {
+	height: 60px;
+	background: #000000;
+	margin: 0px auto;
+	padding: 0px;
+}
+
+#menu ul {
+	padding: 10px 0px 0px 0px;
+	text-align: center;
+}
+
+#menu li {
+	display: inline-block;
+	border-right: 1px solid;
+	border-left: 1px solid;
+}
+
+#menu a {
+	display: block;
+	letter-spacing: 3px;
+	margin: 0px 10px;
+	padding: 10px 20px;
+	text-align: center;
+	font-size: 15px;
+	color: #FFFFFF;
+}
+
+
+#peamine {
+	overflow: hidden;
+	width: 950px;
+	margin: 0px auto 50px auto;
+	padding: 30px 30px 0 30px;
+	background: #FFF;
+}
+
+#sisu {
+	float: left;
+	clear: left;
+	width: 500px;
+	padding-top: 30px;
+	padding-left: 20px;
+}
+
+.tiitel {
+	font-size: 32px;
+}
+
+
+#tulemustetabel {
+	float: right;
+	width: 250px;
+	padding: 40px 30px 0px 0px;
+	color: #323030;
+}
+
+#all {
+	text-align: center;
+	color: #A0A0A0;
+}
+
+
