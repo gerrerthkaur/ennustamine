@@ -1,3 +1,4 @@
+<?php require_once( 'auth.php' ); ?>
 <html>
 <head>
 	<title> ENNUSTAMINE </title>
@@ -15,6 +16,7 @@
 	</div>
 	<div id="pealkiri">
 		<div id="quote">
+			<h1><?php echo $profile['name'] ?></h1>
 			<h1><a href="#"> ENNUSTAMINE </a></h1>
 			<p> <i> "Some people believe betting is a matter of life and death, </p>
 			<p> I am very disappointed with that attitude. I can assure you </p> 
